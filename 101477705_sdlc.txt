@@ -8,3 +8,5 @@ SDLC consists of several phases:
 - testing,
 - deployment,
 - and maintenance.
+
+The main goal of SDLC is to provide a structured approach to software development. It improve efficiency, quality, and predictability.
