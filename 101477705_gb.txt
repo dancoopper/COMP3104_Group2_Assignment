@@ -1,1 +1,6 @@
-George Brown Collge is a post-secondary institude, focusing on areas such as health sciences, business, technology, and culinary arts
+George Brown Collge is a public post-secondary institude, focusing on areas such as health sciences, business, technology, and culinary arts.
+
+The college has three campuses:
+- Casa Loma Campus
+- Water front Campus
+- St. James Campus
