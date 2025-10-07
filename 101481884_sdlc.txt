@@ -1,1 +1,1 @@
-SDLC, more commenly known as the Software Development Life Cycle, is one of, if not the most, importent part of the development life cycle. With out it we would not have any software development
+SDLC, more commenly known as the Software Development Life Cycle, is one of, if not the most, importent part of the development life cycle. With out it we would not have any software development.
