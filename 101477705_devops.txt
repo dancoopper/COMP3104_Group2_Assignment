@@ -4,3 +4,13 @@ DevOps includes:
 - Continuous Integration (CI)
 - Continuous Deployment (CD)
 - Infrastructure as Code (IaC)
+
+On a low-level, DevOps phases include:
+- Planning
+- Code
+- Build
+- Test
+- Release
+- Deploy
+- Operate
+- Monitor
