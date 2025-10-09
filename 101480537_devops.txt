@@ -1,1 +1,1 @@
-created devops
+COMP 2156 teaches DevOps fundamentals like CI/CD, automation, and deployment workflows. It’s hands-on, using tools like Docker, Git, and Jenkins.
