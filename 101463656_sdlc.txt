@@ -1,0 +1,3 @@
+SDLC - Software Development Life Cycle
+
+Structured process that guides the software development from its initial concept to its final deployment and ongoing maintance.
