@@ -1,1 +1,1 @@
-created sdlc file
+DevOps speeds up software delivery by automating development, testing, and deployment. It improves collaboration between teams and ensures faster, more reliable releases.
