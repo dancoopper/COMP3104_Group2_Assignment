@@ -1,7 +1,7 @@
 # COMP3104_Group1_Assignment
 ## Group Members
 - **Leader:** Samuel Browne (101481884) - [GitHub](https://github.com/dancoopper)
-- **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
+- **Member 2:** Jonathan Cao (101480537) - [GitHub](https://github.com/Jonker88)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
