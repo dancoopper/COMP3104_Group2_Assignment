@@ -2,7 +2,8 @@
 ## Group Members
 - **Leader:** Samuel Browne (101481884) - [GitHub](https://github.com/dancoopper)
 - **Member 2:** Jonathan Cao (101480537) - [GitHub](https://github.com/Jonker88)
-- **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
+- **Member 3:** Sokmontrey Sythat (101477705) - [GitHub](https://github.com/sokmontrey)
+
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
