@@ -3,6 +3,7 @@
 - **Leader:** Samuel Browne (101481884) - [GitHub](https://github.com/dancoopper)
 - **Member 2:** Jonathan Cao (101480537) - [GitHub](https://github.com/Jonker88)
 - **Member 3:** Sokmontrey Sythat (101477705) - [GitHub](https://github.com/sokmontrey)
+- **Member 4:** Hans Casilao (101463656) - [Github](https://github.com/SimplyHans)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
