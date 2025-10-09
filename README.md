@@ -1,7 +1,7 @@
 # COMP3104_Group1_Assignment
 ## Group Members
 - **Leader:** Samuel Browne (101481884) - [GitHub](https://github.com/dancoopper)
-
+- **Member 2:** Jonathan Cao (101480537) - [GitHub](https://github.com/Jonker88)
 - **Member 3:** Sokmontrey Sythat (101477705) - [GitHub](https://github.com/sokmontrey)
 
 ## Project Description
